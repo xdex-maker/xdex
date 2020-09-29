@@ -1,5 +1,5 @@
 ![CI](https://github.com/xdex-maker/xdex/workflows/CI/badge.svg?branch=master)
-# XdexFinance  https://Xdex.finance.org 
+# XdexFinance  https://xdex.finance
 
 ## Deployed Contracts / Hash
 
